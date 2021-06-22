@@ -11,9 +11,9 @@ from ibm_watson import LanguageTranslatorV3
 from ttkthemes import ThemedStyle
 from ttkwidgets.autocomplete import AutocompleteCombobox
 
-authenticator = IAMAuthenticator('wBfieaiKFK5oGu5UtBYkaiT3AswMWAibH5lhivnuqZoS') #IBM variable for authentication
+authenticator = IAMAuthenticator('API-key') #IBM variable for api authentication. Replace with your Api key
 language_translator = LanguageTranslatorV3(version='2018-05-01',authenticator=authenticator)
-language_translator.set_service_url('https://api.eu-gb.language-translator.watson.cloud.ibm.com')
+language_translator.set_service_url('URL') #Replace with your URL
 
 # Initialize recognizer class (for recognizing the speech)
 
