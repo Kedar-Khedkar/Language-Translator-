@@ -11,11 +11,13 @@ It has features like:<br>
 ### Installing Dependencies
 *********
 Run this in terminal<br>
+
 `pip install tk`<br>
 `pip install ttkthemes`<br>
 `pip install ttkwidgets`<br>
 `pip install PyJWT==1.7.1 ibm_watson wget`<br>
 `pip install PyAudio`<br>
+`pip install SpeechRecognition`<br>
 `pip install language-tool-python`<br>
 
 ### Access API
