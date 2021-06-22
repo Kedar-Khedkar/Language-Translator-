@@ -7,6 +7,7 @@ It has features like:<br>
 2. Autocomplete drop-down list for language selection
 3. 50 languages supported for translation
 
+[![image.png](https://i.postimg.cc/3RCrSJNV/image.png)](https://postimg.cc/9R0jz2GY)
 ### Installing Dependencies
 *********
 Run this in terminal<br>
