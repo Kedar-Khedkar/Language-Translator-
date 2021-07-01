@@ -1,5 +1,5 @@
 ## Language Translator with GUI
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br>
 🙋‍♂️Hi, I am Kedar Khedkar, a python developer.
 In this project, I have made a **Language Translator** using **IBM Watson API**.<br>
 It has features like:<br>
