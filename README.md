@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) ![GitHub watchers](https://img.shields.io/github/watchers/Kedar-Khedkar/Language-Translator-?style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) https://img.shields.io/github/stars/Kedar-Khedkar/Language-Translator-?style=for-the-badge
 
 ## Language Translator with GUI
 
@@ -30,7 +30,7 @@ For api [documentation](https://cloud.ibm.com/apidocs/language-translator?code=p
 ### Code
 **********
 There are two scripts in the repository `supported_languages.py` and `language_translator.py`.<br>
-`language_translator.py` is main script and `supported_languages.py` is used to extract the supported languages for translation and used.
+`language_translator.py` is main script and `supported_languages.py` is used to extract the supported languages for translation and used from the api.
 
 In `supported_languages.py`, we have extracted the supporting languages from api and saved in a list, and that list is imported in `language_translator.py`<br>
 Replace *Api key* and *Url* with your own api key and url.
