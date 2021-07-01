@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br> ![GitHub watchers](https://img.shields.io/github/watchers/Kedar-Khedkar/Language-Translator-?style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) ![GitHub watchers](https://img.shields.io/github/watchers/Kedar-Khedkar/Language-Translator-?style=for-the-badge)
 
 ## Language Translator with GUI
 
