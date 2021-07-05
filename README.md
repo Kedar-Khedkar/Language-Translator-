@@ -7,7 +7,8 @@ In this project, I have made a **Language Translator** using **IBM Watson API**.
 It has features like:<br>
 1. Voice Input (only for English language)
 2. Autocomplete drop-down list for language selection
-3. 50 languages supported for translation
+3. 50 languages supported for translation <br>
+⭐ Give a star if you like this project ⭐<br>
 
 [![image.png](https://i.postimg.cc/3RCrSJNV/image.png)](https://postimg.cc/9R0jz2GY)
 ### Installing Dependencies
