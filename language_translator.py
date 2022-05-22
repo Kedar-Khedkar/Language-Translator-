@@ -58,7 +58,7 @@ def voice_input():
             correct_text=tool.correct(text_vin)
             text_entered.insert(tk.INSERT,correct_text)
         except:
-            messagebox.showerror("showerror","Sorry, I did not get that")
+            messagebox.showerror("showerror","Sorry")
 
 #-----------------------------------------------------------------------------------------------------------------
 #Label
